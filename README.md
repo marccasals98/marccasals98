@@ -9,7 +9,7 @@ I am a mathematician and an aspiring Deep Learning Engineer who enjoys playing w
 
 📫 How to reach me: 
 * marc.casals8@gmail.com
-* [My Linked In](https://www.linkedin.com/in/marc-casals-salvador/)
+* [My LinkedIn](https://www.linkedin.com/in/marc-casals-salvador/)
 
 
 <div align="center">
