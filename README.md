@@ -4,7 +4,9 @@ I am a mathematician and an aspiring Deep Learning Engineer who enjoys playing w
 
 :man_student: Bachelor's Degree in Mathematics UAB 
 
-:man_technologist: Postgraduate of Deep Learning UPC
+:man_student: Postgraduate of Deep Learning UPC
+
+:man_technologist: Bachelor's Degree in Deep Learning (MATT UPC)
 
 
 📫 How to reach me: 
