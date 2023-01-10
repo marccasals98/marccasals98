@@ -6,7 +6,7 @@ I am a mathematician and an aspiring Deep Learning Engineer who enjoys playing w
 
 :man_student: Postgraduate of Deep Learning UPC
 
-:man_technologist: Bachelor's Degree in Deep Learning (MATT UPC)
+:man_technologist: Master's Degree in Deep Learning (MATT UPC)
 
 
 📫 How to reach me: 
