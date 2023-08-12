@@ -1,6 +1,6 @@
 ### Hi there!!! 👋
 
-I am a mathematician and an aspiring Deep Learning Engineer who enjoys playing with models and data.
+I am a mathematician and Deep Learning Engineer who enjoys playing with models and data.
 
 :man_student: Bachelor's Degree in Mathematics UAB 
 
