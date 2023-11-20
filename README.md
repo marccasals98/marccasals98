@@ -2,11 +2,14 @@
 
 I am a mathematician and Deep Learning Engineer who enjoys playing with models and data.
 
-:man_student: Bachelor's Degree in Mathematics UAB 
+📖 PhD Student at Barcelona Supercomuting Center.
+
+:man_technologist: Master's Degree in Deep Learning (MATT UPC)
 
 :man_student: Postgraduate of Deep Learning UPC
 
-:man_technologist: Master's Degree in Deep Learning (MATT UPC)
+:man_student: Bachelor's Degree in Mathematics UAB 
+
 
 
 📫 How to reach me: 
